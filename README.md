@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samarth Pawar</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brave98git" alt="brave98git" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brave98git" alt="brave98git" /></a> </p> -->
 
 - 🔭 I’m currently working on [Interactive Full-Stack Web Apps with GSAP animations & smooth scroll effects](https://github.com/brave98git)
 
