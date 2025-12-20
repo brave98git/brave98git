@@ -1,21 +1,21 @@
-<!-- Animated Header -->
+<!-- =================== HEADER =================== -->
 <h1 align="center">
   Hi 👋, I'm <span style="color:#00C2FF;">Samarth Pawar</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+from+India;MERN+Stack+%7C+GSAP+Animations;Smooth+Scroll+%7C+ScrollTrigger+Expert;Building+End-to-End+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+from+India;MERN+Stack+%7C+GSAP+Animations;Motion-First+UI+%7C+ScrollTrigger;Building+Smooth+End-to-End+Web+Apps" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **Interactive Full-Stack Web Apps with GSAP animations & smooth scroll effects**
+- 🔭 Working on **Interactive Full-Stack Web Apps with GSAP animations & smooth scrolling**
 - 🌱 Learning **Advanced DSA, GSAP (ScrollTrigger), MERN & performance-optimized UI**
-- 👯 Open to collaborate on **MERN Stack Full-Stack Projects**
+- 👯 Looking to collaborate on **MERN Stack Full-Stack Projects**
 - 🤝 Exploring **Scalable Backend Architecture & System Design**
-- 💬 Ask me about **JavaScript, GSAP, React, Node.js, smooth scrolling**
+- 💬 Ask me about **JavaScript, GSAP, React, Node.js**
 - ⚡ Fun fact: *I enjoy building full-stack projects end-to-end more than watching tutorials 😄*
 
 ---
@@ -36,31 +36,36 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 ### 🌐 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,figma" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
 </p>
+
+### 🎞️ Animation & Motion UI
+<p>
+  <img src="https://greensock.com/favicon.ico" height="40" title="GSAP" />
+  <img src="https://img.shields.io/badge/ScrollTrigger-GSAP-88CE02?style=for-the-badge" height="40" />
+  <img src="https://img.shields.io/badge/Motion%20UI-121212?style=for-the-badge&logo=foundation&logoColor=white" height="40" />
+</p>
+
+- Advanced GSAP timelines & tweens  
+- ScrollTrigger (pin, scrub, parallax, reveal effects)  
+- Motion-first UI & micro-interactions  
+- Smooth scrolling & performance-optimized animations  
+
+---
 
 ### 🚀 Tools & Extras
 <p>
   <img src="https://skillicons.dev/icons?i=git,postman,blender" />
 </p>
-
----
-
-## ✨ Animation & UI Focus
-- GSAP Animations
-- ScrollTrigger
-- Smooth Scroll Experiences
-- Performance-Optimized UI
-- Micro-interactions
 
 ---
 
@@ -78,11 +83,10 @@
 ---
 
 ## 🚀 Projects
-👨‍💻 All my projects 👉  
 🔗 **https://github.com/brave98git?tab=repositories**
 
 ---
 
 <p align="center">
-  ⚡ *Building smooth, animated & scalable web apps — one project at a time.*
+  ⚡ <b>Building smooth, animated & scalable web apps — one project at a time.</b>
 </p>
