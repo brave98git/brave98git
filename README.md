@@ -1,92 +1,55 @@
-<!-- =================== HEADER =================== -->
-<h1 align="center">
-  Hi 👋, I'm <span style="color:#00C2FF;">Samarth Pawar</span>
-</h1>
+<h1 align="center">Samarth Pawar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+from+India;MERN+Stack+%7C+GSAP+Animations;Motion-First+UI+%7C+ScrollTrigger;Building+Smooth+End-to-End+Web+Apps" />
+  <b>Full-Stack Developer • Motion UI Engineer • GSAP Enthusiast</b>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-- 🔭 Working on **Interactive Full-Stack Web Apps with GSAP animations & smooth scrolling**
-- 🌱 Learning **Advanced DSA, GSAP (ScrollTrigger), MERN & performance-optimized UI**
-- 👯 Looking to collaborate on **MERN Stack Full-Stack Projects**
-- 🤝 Exploring **Scalable Backend Architecture & System Design**
-- 💬 Ask me about **JavaScript, GSAP, React, Node.js**
-- ⚡ Fun fact: *I enjoy building full-stack projects end-to-end more than watching tutorials 😄*
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/samarth-pawar-460a762a9" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://www.leetcode.com/samarth104" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/>
-  </a>
-  <a href="mailto:samarthbhagwanpawar098@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,figma" />
-</p>
-
-### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
-</p>
-
-### 🎞️ Animation & Motion UI
-<p>
-  <img src="https://greensock.com/favicon.ico" height="40" title="GSAP" />
-  <img src="https://img.shields.io/badge/ScrollTrigger-GSAP-88CE02?style=for-the-badge" height="40" />
-  <img src="https://img.shields.io/badge/Motion%20UI-121212?style=for-the-badge&logo=foundation&logoColor=white" height="40" />
-</p>
-
-- Advanced GSAP timelines & tweens  
-- ScrollTrigger (pin, scrub, parallax, reveal effects)  
-- Motion-first UI & micro-interactions  
-- Smooth scrolling & performance-optimized animations  
-
----
-
-### 🚀 Tools & Extras
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman,blender" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
+<!-- ================== MOTION TIMELINE ================== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brave98git&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brave98git&theme=tokyonight" height="160"/>
+
+<svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background line -->
+  <line x1="50" y1="60" x2="650" y2="60" stroke="#222" stroke-width="4"/>
+
+  <!-- Animated progress -->
+  <line x1="50" y1="60" x2="50" y2="60" stroke="#00C2FF" stroke-width="4">
+    <animate 
+      attributeName="x2"
+      from="50"
+      to="650"
+      dur="4s"
+      repeatCount="indefinite"
+    />
+  </line>
+
+  <!-- Nodes -->
+  <circle cx="50" cy="60" r="8" fill="#00C2FF"/>
+  <circle cx="250" cy="60" r="8" fill="#555"/>
+  <circle cx="450" cy="60" r="8" fill="#555"/>
+  <circle cx="650" cy="60" r="8" fill="#555"/>
+
+  <!-- Labels -->
+  <text x="50" y="95" fill="#aaa" font-size="12">HTML/CSS</text>
+  <text x="230" y="95" fill="#aaa" font-size="12">JavaScript</text>
+  <text x="430" y="95" fill="#aaa" font-size="12">GSAP</text>
+  <text x="610" y="95" fill="#aaa" font-size="12">MERN</text>
+
+</svg>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brave98git&layout=compact&theme=tokyonight" height="140"/>
+  <i>Simulated motion timeline — inspired by GSAP sequencing</i>
 </p>
 
 ---
 
-## 🚀 Projects
-🔗 **https://github.com/brave98git?tab=repositories**
+## 🧩 Who Am I?
 
----
-
-<p align="center">
-  ⚡ <b>Building smooth, animated & scalable web apps — one project at a time.</b>
-</p>
+```txt
+> Designing motion-first user experiences
+> Engineering smooth, scalable full-stack systems
+> Turning scroll into storytelling
