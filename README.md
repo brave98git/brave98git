@@ -11,10 +11,10 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Working on **Interactive Full-Stack Web Applications with smooth animations**
-- 🌱 Learning **Advanced DSA, GSAP (ScrollTrigger), Framer Motion, MERN Stack & performance-optimized UI**
+- 🔭 Working on **interactive full-stack web applications with smooth animations**
+- 🌱 Learning **Advanced DSA, GSAP (ScrollTrigger), Framer Motion, MERN Stack**
 - 👯 Open to collaborating on **Full-Stack MERN projects**
-- 🤝 Exploring **Scalable backend architecture, system design & lightweight state management**
+- 🤝 Exploring **scalable backend architecture, system design & lightweight state management**
 - 💬 Ask me about **JavaScript, React, GSAP, Framer Motion, Zustand, Node.js**
 - ⚡ Fun fact: *I enjoy building complete products more than just watching tutorials*
 
@@ -48,7 +48,10 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
 </p>
 
-### 🎞️ Animation & Motion UI
+---
+
+## 🎞️ Animation & Motion UI
+
 <p>
   <img src="https://greensock.com/favicon.ico" height="40" title="GSAP" />
   <img src="https://img.shields.io/badge/ScrollTrigger-GSAP-88CE02?style=for-the-badge" height="40" />
@@ -65,28 +68,35 @@
 
 ## 📦 Libraries & Frameworks
 
-### 🎨 UI & Component Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
-</p>
-
----
-
 ### ⚛️ React Ecosystem
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
+
+  <!-- Zustand official bear icon -->
+<img src="https://img.shields.io/badge/Zustand-State_Management-443E38?style=for-the-badge" />
+
+
+
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
   <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 - **Zustand for lightweight, scalable global state management**
 - Redux Toolkit for complex application state
+- React Hook Form for performant form handling & validation
 - Context API for simple shared state
+
+---
+
+### ✍️ Rich Text & Editor Tools
+<p>
+  <img src="https://img.shields.io/badge/React_Quill-FF6F00?style=for-the-badge&logo=quill&logoColor=white" />
+</p>
+
+- **React Quill for rich text editing (blogs, notes, CMS dashboards)**
+- Custom toolbar configuration
+- Controlled editor state with global store & forms
 
 ---
 
@@ -107,14 +117,16 @@
 
 ## 🚀 Projects
 
-🔗 **GitHub Repositories:**  
+🔗 **GitHub Repositories**  
 https://github.com/brave98git?tab=repositories
 
 - Built full-stack MERN applications from scratch  
-- Implemented authentication, CRUD operations & APIs  
+- Implemented authentication, CRUD operations & REST APIs  
 - Designed reusable UI components with Tailwind, DaisyUI & shadcn/ui  
-- **Used Zustand for clean and minimal state management**  
-- **Added Framer Motion for page transitions & UI animations**  
+- **Used React Hook Form for scalable and performant forms**
+- **Integrated React Quill for rich text content creation**
+- Used Zustand for clean and minimal global state management  
+- Added Framer Motion for page transitions & UI animations  
 - Added smooth animations using GSAP & ScrollTrigger  
 
 ---
