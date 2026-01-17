@@ -14,7 +14,7 @@
 - 🔭 Working on **interactive full-stack web applications with smooth animations**
 - 🌱 Learning **Advanced DSA, GSAP (ScrollTrigger), Framer Motion, MERN Stack**
 - 👯 Open to collaborating on **Full-Stack MERN projects**
-- 🤝 Exploring **scalable backend architecture, system design & lightweight state management**
+- 🤝 Exploring **scalable backend architecture, system design & efficient data fetching**
 - 💬 Ask me about **JavaScript, React, GSAP, Framer Motion, Zustand, Node.js**
 - ⚡ Fun fact: *I enjoy building complete products more than just watching tutorials*
 
@@ -72,31 +72,20 @@
 <p>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-
-  <!-- Zustand official bear icon -->
-<img src="https://img.shields.io/badge/Zustand-State_Management-443E38?style=for-the-badge" />
-
-
-
+  <img src="https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-State_Management-443E38?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Quill-FF6F00?style=for-the-badge&logo=quill&logoColor=white" />
 </p>
 
 - **Zustand for lightweight, scalable global state management**
 - Redux Toolkit for complex application state
+- **RTK Query for efficient API calls, caching & server-state management**
 - React Hook Form for performant form handling & validation
-- Context API for simple shared state
-
----
-
-### ✍️ Rich Text & Editor Tools
-<p>
-  <img src="https://img.shields.io/badge/React_Quill-FF6F00?style=for-the-badge&logo=quill&logoColor=white" />
-</p>
-
 - **React Quill for rich text editing (blogs, notes, CMS dashboards)**
-- Custom toolbar configuration
-- Controlled editor state with global store & forms
+- Controlled editor state with forms & global stores
+
+
 
 ---
 
@@ -123,9 +112,9 @@ https://github.com/brave98git?tab=repositories
 - Built full-stack MERN applications from scratch  
 - Implemented authentication, CRUD operations & REST APIs  
 - Designed reusable UI components with Tailwind, DaisyUI & shadcn/ui  
-- **Used React Hook Form for scalable and performant forms**
-- **Integrated React Quill for rich text content creation**
-- Used Zustand for clean and minimal global state management  
+- **Used React Hook Form + React Quill for scalable content creation**
+- **Used RTK Query for clean, optimized API data handling**
+- Used Zustand for minimal and maintainable global state  
 - Added Framer Motion for page transitions & UI animations  
 - Added smooth animations using GSAP & ScrollTrigger  
 
