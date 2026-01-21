@@ -34,16 +34,20 @@
   <a href="mailto:samarthbhagwanpawar098@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
+</p>
 
-  <!-- Portfolio Website -->
-  <a href="https://brave98git.github.io/portfolio-samarth-pawar/" target="_blank" title="Portfolio Website">
-  <img
-    height="40"
-    src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHJ4PSIxNCIgZmlsbD0iIzAwMDAwMCIvPjxwYXRoIGQ9Ik0yMiAyMEwxNCAzMkwyMiA0NCIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik00MiAyMEw1MCAzMkw0MiA0NCIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxsaW5lIHgxPSIyOCIgeTE9IjE4IiB4Mj0iMzYiIHkyPSI0NiIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPg=="
-  />
+---
+
+## 🌐 Visit My Portfolio
+
+<p>
+  <a href="https://brave98git.github.io/portfolio-samarth-pawar/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Samarth%20Pawar-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </p>
+
+
 
 
 ---
