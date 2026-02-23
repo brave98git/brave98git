@@ -41,7 +41,7 @@
 ## 🌐 Visit My Portfolio
 
 <p>
-  <a href="https://brave98git.github.io/portfolio-samarth-pawar/" target="_blank">
+  <a href="https://portfolio-samarth-pawar.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-Samarth%20Pawar-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
