@@ -57,6 +57,7 @@
 ### 🌐 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,figma" />
+<img src="https://img.shields.io/badge/Puter.js-Cloud%20Browser%20Runtime-4A90E2?style=for-the-badge" />
 </p>
 
 ### ⚙️ Backend & Databases
@@ -92,6 +93,7 @@
   <img src="https://img.shields.io/badge/Zustand-State_Management-443E38?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Quill-FF6F00?style=for-the-badge&logo=quill&logoColor=white" />
+  <img src="https://img.shields.io/badge/Puter.js-Browser_Cloud_Runtime-4A90E2?style=for-the-badge" />
 </p>
 
 - **Zustand for lightweight, scalable global state management**
